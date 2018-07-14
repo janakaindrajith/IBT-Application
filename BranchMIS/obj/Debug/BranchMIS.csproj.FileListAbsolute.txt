@@ -1,0 +1,149 @@
+E:\Development\BranchMIS\New Source\BranchMIS\BranchMIS\bin\BranchMIS.dll.config
+E:\Development\BranchMIS\New Source\BranchMIS\BranchMIS\bin\BranchMIS.dll
+E:\Development\BranchMIS\New Source\BranchMIS\BranchMIS\bin\BranchMIS.pdb
+E:\Development\BranchMIS\New Source\BranchMIS\BranchMIS\bin\System.Configuration.dll
+E:\Development\BranchMIS\New Source\BranchMIS\BranchMIS\bin\System.Data.DataSetExtensions.dll
+E:\Development\BranchMIS\New Source\BranchMIS\BranchMIS\bin\System.Data.dll
+E:\Development\BranchMIS\New Source\BranchMIS\BranchMIS\bin\System.dll
+E:\Development\BranchMIS\New Source\BranchMIS\BranchMIS\bin\System.Drawing.dll
+E:\Development\BranchMIS\New Source\BranchMIS\BranchMIS\bin\System.EnterpriseServices.dll
+E:\Development\BranchMIS\New Source\BranchMIS\BranchMIS\bin\System.Web.dll
+E:\Development\BranchMIS\New Source\BranchMIS\BranchMIS\bin\System.Web.Extensions.dll
+E:\Development\BranchMIS\New Source\BranchMIS\BranchMIS\bin\System.Web.Mobile.dll
+E:\Development\BranchMIS\New Source\BranchMIS\BranchMIS\bin\System.Web.Services.dll
+E:\Development\BranchMIS\New Source\BranchMIS\BranchMIS\bin\System.Xml.dll
+E:\Development\BranchMIS\New Source\BranchMIS\BranchMIS\bin\System.Xml.Linq.dll
+E:\Development\BranchMIS\New Source\BranchMIS\BranchMIS\obj\Debug\BranchMIS.dll
+E:\Development\BranchMIS\New Source\BranchMIS\BranchMIS\obj\Debug\BranchMIS.pdb
+E:\Development\BranchMIS\Source\BranchMIS\BranchMIS\obj\Debug\BranchMIS.csprojResolveAssemblyReference.cache
+E:\Development\BranchMIS\Source\BranchMIS\BranchMIS\bin\BranchMIS.dll.config
+E:\Development\BranchMIS\Source\BranchMIS\BranchMIS\bin\BranchMIS.dll
+E:\Development\BranchMIS\Source\BranchMIS\BranchMIS\bin\BranchMIS.pdb
+E:\Development\BranchMIS\Source\BranchMIS\BranchMIS\bin\Newtonsoft.Json.dll
+E:\Development\BranchMIS\Source\BranchMIS\BranchMIS\bin\SignalR.dll
+E:\Development\BranchMIS\Source\BranchMIS\BranchMIS\bin\SignalR.Hosting.AspNet.dll
+E:\Development\BranchMIS\Source\BranchMIS\BranchMIS\bin\System.Configuration.dll
+E:\Development\BranchMIS\Source\BranchMIS\BranchMIS\bin\System.Data.DataSetExtensions.dll
+E:\Development\BranchMIS\Source\BranchMIS\BranchMIS\bin\System.Data.dll
+E:\Development\BranchMIS\Source\BranchMIS\BranchMIS\bin\System.Data.OracleClient.dll
+E:\Development\BranchMIS\Source\BranchMIS\BranchMIS\bin\System.DirectoryServices.dll
+E:\Development\BranchMIS\Source\BranchMIS\BranchMIS\bin\System.dll
+E:\Development\BranchMIS\Source\BranchMIS\BranchMIS\bin\System.Drawing.dll
+E:\Development\BranchMIS\Source\BranchMIS\BranchMIS\bin\System.EnterpriseServices.dll
+E:\Development\BranchMIS\Source\BranchMIS\BranchMIS\bin\System.Web.ApplicationServices.dll
+E:\Development\BranchMIS\Source\BranchMIS\BranchMIS\bin\System.Web.dll
+E:\Development\BranchMIS\Source\BranchMIS\BranchMIS\bin\System.Web.DynamicData.dll
+E:\Development\BranchMIS\Source\BranchMIS\BranchMIS\bin\System.Web.Entity.dll
+E:\Development\BranchMIS\Source\BranchMIS\BranchMIS\bin\System.Web.Extensions.dll
+E:\Development\BranchMIS\Source\BranchMIS\BranchMIS\bin\System.Web.Mobile.dll
+E:\Development\BranchMIS\Source\BranchMIS\BranchMIS\bin\System.Web.Services.dll
+E:\Development\BranchMIS\Source\BranchMIS\BranchMIS\bin\System.Xml.dll
+E:\Development\BranchMIS\Source\BranchMIS\BranchMIS\bin\System.Xml.Linq.dll
+E:\Development\BranchMIS\Source\BranchMIS\BranchMIS\obj\Debug\BranchMIS.dll
+E:\Development\BranchMIS\Source\BranchMIS\BranchMIS\obj\Debug\BranchMIS.pdb
+E:\PROJECTS\MIS_NEW\BranchMIS\BranchMIS\bin\BranchMIS.dll.config
+E:\PROJECTS\MIS_NEW\BranchMIS\BranchMIS\bin\BranchMIS.dll
+E:\PROJECTS\MIS_NEW\BranchMIS\BranchMIS\bin\BranchMIS.pdb
+E:\PROJECTS\MIS_NEW\BranchMIS\BranchMIS\bin\Newtonsoft.Json.dll
+E:\PROJECTS\MIS_NEW\BranchMIS\BranchMIS\bin\System.Configuration.dll
+E:\PROJECTS\MIS_NEW\BranchMIS\BranchMIS\bin\System.Data.dll
+E:\PROJECTS\MIS_NEW\BranchMIS\BranchMIS\bin\System.DirectoryServices.dll
+E:\PROJECTS\MIS_NEW\BranchMIS\BranchMIS\bin\System.dll
+E:\PROJECTS\MIS_NEW\BranchMIS\BranchMIS\bin\System.Drawing.dll
+E:\PROJECTS\MIS_NEW\BranchMIS\BranchMIS\bin\System.EnterpriseServices.dll
+E:\PROJECTS\MIS_NEW\BranchMIS\BranchMIS\bin\System.Web.ApplicationServices.dll
+E:\PROJECTS\MIS_NEW\BranchMIS\BranchMIS\bin\System.Web.dll
+E:\PROJECTS\MIS_NEW\BranchMIS\BranchMIS\bin\System.Web.DynamicData.dll
+E:\PROJECTS\MIS_NEW\BranchMIS\BranchMIS\bin\System.Web.Entity.dll
+E:\PROJECTS\MIS_NEW\BranchMIS\BranchMIS\bin\System.Web.Mobile.dll
+E:\PROJECTS\MIS_NEW\BranchMIS\BranchMIS\bin\System.Web.Services.dll
+E:\PROJECTS\MIS_NEW\BranchMIS\BranchMIS\bin\System.Xml.dll
+E:\PROJECTS\MIS_NEW\BranchMIS\BranchMIS\obj\Debug\BranchMIS.csprojResolveAssemblyReference.cache
+E:\PROJECTS\MIS_NEW\BranchMIS\BranchMIS\obj\Debug\BranchMIS.dll
+E:\PROJECTS\MIS_NEW\BranchMIS\BranchMIS\obj\Debug\BranchMIS.pdb
+E:\PROJECTS\MIS_NEW\BranchMIS\BranchMIS\bin\Microsoft.CSharp.dll
+E:\PROJECTS\MIS_NEW\BranchMIS\BranchMIS\bin\System.Data.DataSetExtensions.dll
+E:\PROJECTS\MIS_NEW\BranchMIS\BranchMIS\bin\System.Data.OracleClient.dll
+E:\PROJECTS\MIS_NEW\BranchMIS\BranchMIS\bin\System.Web.Extensions.dll
+E:\PROJECTS\MIS_NEW\BranchMIS\BranchMIS\bin\System.Xml.Linq.dll
+E:\PROJECTS\MIS_NEW\BranchMIS\BranchMIS\bin\Microsoft.Web.Infrastructure.dll
+E:\PROJECTS\MIS_NEW\BranchMIS\BranchMIS\bin\Microsoft.Web.Infrastructure.xml
+E:\Development\BranchMIS\Source\BranchMIS\BranchMIS\bin\Microsoft.CSharp.dll
+E:\Development\BranchMIS\Source\BranchMIS\BranchMIS\bin\Microsoft.Web.Infrastructure.dll
+E:\Development\BranchMIS\Source\BranchMIS\BranchMIS\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\deshapriya.sooriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\BranchMIS.dll.config
+C:\Users\deshapriya.sooriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\BranchMIS.dll
+C:\Users\deshapriya.sooriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\BranchMIS.pdb
+C:\Users\deshapriya.sooriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\Microsoft.CSharp.dll
+C:\Users\deshapriya.sooriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\deshapriya.sooriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\Newtonsoft.Json.dll
+C:\Users\deshapriya.sooriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\System.Configuration.dll
+C:\Users\deshapriya.sooriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\System.Data.DataSetExtensions.dll
+C:\Users\deshapriya.sooriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\System.Data.dll
+C:\Users\deshapriya.sooriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\System.Data.OracleClient.dll
+C:\Users\deshapriya.sooriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\System.DirectoryServices.dll
+C:\Users\deshapriya.sooriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\System.dll
+C:\Users\deshapriya.sooriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\System.Drawing.dll
+C:\Users\deshapriya.sooriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\System.EnterpriseServices.dll
+C:\Users\deshapriya.sooriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\System.Web.ApplicationServices.dll
+C:\Users\deshapriya.sooriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\System.Web.dll
+C:\Users\deshapriya.sooriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\System.Web.DynamicData.dll
+C:\Users\deshapriya.sooriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\System.Web.Entity.dll
+C:\Users\deshapriya.sooriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\System.Web.Extensions.dll
+C:\Users\deshapriya.sooriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\System.Web.Mobile.dll
+C:\Users\deshapriya.sooriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\System.Web.Services.dll
+C:\Users\deshapriya.sooriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\System.Xml.dll
+C:\Users\deshapriya.sooriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\System.Xml.Linq.dll
+C:\Users\deshapriya.sooriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\deshapriya.sooriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\obj\Debug\BranchMIS.csprojResolveAssemblyReference.cache
+C:\Users\deshapriya.sooriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\obj\Debug\BranchMIS.dll
+C:\Users\deshapriya.sooriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\obj\Debug\BranchMIS.pdb
+C:\Users\Deshapriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\BranchMIS.dll.config
+C:\Users\Deshapriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\BranchMIS.dll
+C:\Users\Deshapriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\BranchMIS.pdb
+C:\Users\Deshapriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\Microsoft.CSharp.dll
+C:\Users\Deshapriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\System.Configuration.dll
+C:\Users\Deshapriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\System.Data.DataSetExtensions.dll
+C:\Users\Deshapriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\System.Data.dll
+C:\Users\Deshapriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\System.Data.OracleClient.dll
+C:\Users\Deshapriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\System.DirectoryServices.dll
+C:\Users\Deshapriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\System.dll
+C:\Users\Deshapriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\System.Drawing.dll
+C:\Users\Deshapriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\System.EnterpriseServices.dll
+C:\Users\Deshapriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\System.Web.ApplicationServices.dll
+C:\Users\Deshapriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\System.Web.dll
+C:\Users\Deshapriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\System.Web.DynamicData.dll
+C:\Users\Deshapriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\System.Web.Entity.dll
+C:\Users\Deshapriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\System.Web.Extensions.dll
+C:\Users\Deshapriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\System.Web.Mobile.dll
+C:\Users\Deshapriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\System.Web.Services.dll
+C:\Users\Deshapriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\System.Xml.dll
+C:\Users\Deshapriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\System.Xml.Linq.dll
+C:\Users\Deshapriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\Deshapriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\obj\Debug\BranchMIS.csprojResolveAssemblyReference.cache
+C:\Users\Deshapriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\obj\Debug\BranchMIS.dll
+C:\Users\Deshapriya\Desktop\Branch MIS Original File From Tharindu\BranchMIS\BranchMIS\obj\Debug\BranchMIS.pdb
+D:\PROJECTS\Finance Automation System\BranchMIS\BranchMIS\bin\BranchMIS.dll.config
+D:\PROJECTS\Finance Automation System\BranchMIS\BranchMIS\bin\BranchMIS.dll
+D:\PROJECTS\Finance Automation System\BranchMIS\BranchMIS\bin\BranchMIS.pdb
+D:\PROJECTS\Finance Automation System\BranchMIS\BranchMIS\bin\Microsoft.CSharp.dll
+D:\PROJECTS\Finance Automation System\BranchMIS\BranchMIS\bin\Microsoft.Web.Infrastructure.dll
+D:\PROJECTS\Finance Automation System\BranchMIS\BranchMIS\bin\Newtonsoft.Json.dll
+D:\PROJECTS\Finance Automation System\BranchMIS\BranchMIS\bin\System.Configuration.dll
+D:\PROJECTS\Finance Automation System\BranchMIS\BranchMIS\bin\System.Data.dll
+D:\PROJECTS\Finance Automation System\BranchMIS\BranchMIS\bin\System.Data.OracleClient.dll
+D:\PROJECTS\Finance Automation System\BranchMIS\BranchMIS\bin\System.DirectoryServices.dll
+D:\PROJECTS\Finance Automation System\BranchMIS\BranchMIS\bin\System.dll
+D:\PROJECTS\Finance Automation System\BranchMIS\BranchMIS\bin\System.Drawing.dll
+D:\PROJECTS\Finance Automation System\BranchMIS\BranchMIS\bin\System.EnterpriseServices.dll
+D:\PROJECTS\Finance Automation System\BranchMIS\BranchMIS\bin\System.Web.ApplicationServices.dll
+D:\PROJECTS\Finance Automation System\BranchMIS\BranchMIS\bin\System.Web.dll
+D:\PROJECTS\Finance Automation System\BranchMIS\BranchMIS\bin\System.Web.DynamicData.dll
+D:\PROJECTS\Finance Automation System\BranchMIS\BranchMIS\bin\System.Web.Entity.dll
+D:\PROJECTS\Finance Automation System\BranchMIS\BranchMIS\bin\System.Web.Mobile.dll
+D:\PROJECTS\Finance Automation System\BranchMIS\BranchMIS\bin\System.Web.Services.dll
+D:\PROJECTS\Finance Automation System\BranchMIS\BranchMIS\bin\System.Xml.dll
+D:\PROJECTS\Finance Automation System\BranchMIS\BranchMIS\bin\Microsoft.Web.Infrastructure.xml
+D:\PROJECTS\Finance Automation System\BranchMIS\BranchMIS\obj\Debug\BranchMIS.dll
+D:\PROJECTS\Finance Automation System\BranchMIS\BranchMIS\obj\Debug\BranchMIS.pdb
+D:\PROJECTS\Finance Automation System\BranchMIS\BranchMIS\obj\Debug\BranchMIS.csprojResolveAssemblyReference.cache

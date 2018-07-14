@@ -1,0 +1,75 @@
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Main.Master" AutoEventWireup="true" CodeBehind="IBT_MRP_Confirmation.aspx.cs" Inherits="BranchMIS.IBT.IBT_MRP_Confirmation" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+    <style type="text/css">
+        .page_result {
+            padding: 10px;
+            font-size: 16px;
+            color: white;
+        }
+
+        .HiddenCol {
+            display: none;
+        }
+    </style>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
+
+    <form runat="server">
+        <!-- BEGIN PAGE HEADER-->
+        <div class="row">
+            <div class="col-md-12">
+                <div class="page-header">
+                    <h3>Divisional Confirmation</h3>
+                </div>
+            </div>
+            <%--<div class="col-md-4">.col-md-4</div>--%>
+        </div>
+        <div class="row" runat="server">
+            <div class="col-md-12">
+                <div runat="server" role="alert" visible="true" id="page_result">
+                    <asp:Label ID="lblResult" runat="server" Text="" Visible="false"></asp:Label>
+                </div>
+            </div>
+        </div>
+
+        <div class="well well-lg" id="panel_life" runat="server">
+            <div class="row">
+                <div class="col-md-2">
+                    <asp:Button ID="cmdMRPConfirmed" runat="server" Text="MRP Confirmation" CssClass="btn btn-primary btn-md" OnClick="cmdMRPConfirmed_Click" />
+                </div>
+                <div class="col-md-2">
+                    <asp:Button ID="cmdMcrConfirmed" runat="server" Text="MCR Confirmation" CssClass="btn btn-primary btn-md" OnClick="cmdMCRConfirmed_Click" />
+                </div>
+                <%--                <div class="col-sm-1">
+                    &nbsp;
+                </div>--%>
+                <div class="col-md-2">
+                    <asp:Button ID="cmdNewConfirmed" runat="server" Text="New Business Confirmation" CssClass="btn btn-primary btn-md" OnClick="cmdNewConfirmed_Click" />
+                </div>
+                <%--                 <div class="col-sm-1">
+                    &nbsp;
+                </div>--%>
+                <div class="col-md-2">
+                    <asp:Button ID="cmdRenewalConfirmed" runat="server" Text="Renewal Confirmation" CssClass="btn btn-primary btn-md" OnClick="cmdRenewalConfirmed_Click" />
+                </div>
+            </div>
+        </div>
+
+        <div class="well well-lg" id="panel_gi" runat="server">
+            <div class="row">
+                <div class="col-md-2">
+                    <asp:Button ID="cmdMotorConfirmation" runat="server" Text="Motor Confirmation" CssClass="btn btn-primary btn-md" OnClick="cmdMotorConfirmation_Click" />
+                </div>
+                <%--                 <div class="col-sm-1">
+                    &nbsp;
+                </div>--%>
+                <div class="col-md-2">
+                    <asp:Button ID="cmdNonMotorConfirmation" runat="server" Text="Non Motor Confirmation" CssClass="btn btn-primary btn-md" OnClick="cmdNonMotorConfirmation_Click" />
+                </div>
+            </div>
+        </div>
+
+
+    </form>
+</asp:Content>

@@ -1,0 +1,72 @@
+D:\HNBA PROJECTS\IBT Application-New\IBT Automation System\BranchMIS\bin\BranchMIS.dll.config
+D:\HNBA PROJECTS\IBT Application-New\IBT Automation System\BranchMIS\bin\BranchMIS.dll
+D:\HNBA PROJECTS\IBT Application-New\IBT Automation System\BranchMIS\bin\BranchMIS.pdb
+D:\HNBA PROJECTS\IBT Application-New\IBT Automation System\BranchMIS\bin\Microsoft.CSharp.dll
+D:\HNBA PROJECTS\IBT Application-New\IBT Automation System\BranchMIS\bin\Microsoft.Web.Infrastructure.dll
+D:\HNBA PROJECTS\IBT Application-New\IBT Automation System\BranchMIS\bin\Newtonsoft.Json.dll
+D:\HNBA PROJECTS\IBT Application-New\IBT Automation System\BranchMIS\bin\System.Configuration.dll
+D:\HNBA PROJECTS\IBT Application-New\IBT Automation System\BranchMIS\bin\System.Data.dll
+D:\HNBA PROJECTS\IBT Application-New\IBT Automation System\BranchMIS\bin\System.Data.OracleClient.dll
+D:\HNBA PROJECTS\IBT Application-New\IBT Automation System\BranchMIS\bin\System.DirectoryServices.dll
+D:\HNBA PROJECTS\IBT Application-New\IBT Automation System\BranchMIS\bin\System.dll
+D:\HNBA PROJECTS\IBT Application-New\IBT Automation System\BranchMIS\bin\System.Drawing.dll
+D:\HNBA PROJECTS\IBT Application-New\IBT Automation System\BranchMIS\bin\System.EnterpriseServices.dll
+D:\HNBA PROJECTS\IBT Application-New\IBT Automation System\BranchMIS\bin\System.Web.ApplicationServices.dll
+D:\HNBA PROJECTS\IBT Application-New\IBT Automation System\BranchMIS\bin\System.Web.dll
+D:\HNBA PROJECTS\IBT Application-New\IBT Automation System\BranchMIS\bin\System.Web.DynamicData.dll
+D:\HNBA PROJECTS\IBT Application-New\IBT Automation System\BranchMIS\bin\System.Web.Entity.dll
+D:\HNBA PROJECTS\IBT Application-New\IBT Automation System\BranchMIS\bin\System.Web.Mobile.dll
+D:\HNBA PROJECTS\IBT Application-New\IBT Automation System\BranchMIS\bin\System.Web.Services.dll
+D:\HNBA PROJECTS\IBT Application-New\IBT Automation System\BranchMIS\bin\System.Xml.dll
+D:\HNBA PROJECTS\IBT Application-New\IBT Automation System\BranchMIS\bin\Microsoft.Web.Infrastructure.xml
+D:\HNBA PROJECTS\IBT Application-New\IBT Automation System\BranchMIS\obj\Release\IBT_Automation_System.csprojResolveAssemblyReference.cache
+D:\HNBA PROJECTS\IBT Application-New\IBT Automation System\BranchMIS\obj\Release\BranchMIS.dll
+D:\HNBA PROJECTS\IBT Application-New\IBT Automation System\BranchMIS\obj\Release\BranchMIS.pdb
+D:\HNBA PROJECTS\IBT Application\IBT Automation System\BranchMIS\bin\BranchMIS.dll.config
+D:\HNBA PROJECTS\IBT Application\IBT Automation System\BranchMIS\bin\BranchMIS.dll
+D:\HNBA PROJECTS\IBT Application\IBT Automation System\BranchMIS\bin\BranchMIS.pdb
+D:\HNBA PROJECTS\IBT Application\IBT Automation System\BranchMIS\bin\Microsoft.CSharp.dll
+D:\HNBA PROJECTS\IBT Application\IBT Automation System\BranchMIS\bin\Microsoft.Web.Infrastructure.dll
+D:\HNBA PROJECTS\IBT Application\IBT Automation System\BranchMIS\bin\Newtonsoft.Json.dll
+D:\HNBA PROJECTS\IBT Application\IBT Automation System\BranchMIS\bin\System.Configuration.dll
+D:\HNBA PROJECTS\IBT Application\IBT Automation System\BranchMIS\bin\System.Data.dll
+D:\HNBA PROJECTS\IBT Application\IBT Automation System\BranchMIS\bin\System.Data.OracleClient.dll
+D:\HNBA PROJECTS\IBT Application\IBT Automation System\BranchMIS\bin\System.DirectoryServices.dll
+D:\HNBA PROJECTS\IBT Application\IBT Automation System\BranchMIS\bin\System.dll
+D:\HNBA PROJECTS\IBT Application\IBT Automation System\BranchMIS\bin\System.Drawing.dll
+D:\HNBA PROJECTS\IBT Application\IBT Automation System\BranchMIS\bin\System.EnterpriseServices.dll
+D:\HNBA PROJECTS\IBT Application\IBT Automation System\BranchMIS\bin\System.Web.ApplicationServices.dll
+D:\HNBA PROJECTS\IBT Application\IBT Automation System\BranchMIS\bin\System.Web.dll
+D:\HNBA PROJECTS\IBT Application\IBT Automation System\BranchMIS\bin\System.Web.DynamicData.dll
+D:\HNBA PROJECTS\IBT Application\IBT Automation System\BranchMIS\bin\System.Web.Entity.dll
+D:\HNBA PROJECTS\IBT Application\IBT Automation System\BranchMIS\bin\System.Web.Mobile.dll
+D:\HNBA PROJECTS\IBT Application\IBT Automation System\BranchMIS\bin\System.Web.Services.dll
+D:\HNBA PROJECTS\IBT Application\IBT Automation System\BranchMIS\bin\System.Xml.dll
+D:\HNBA PROJECTS\IBT Application\IBT Automation System\BranchMIS\bin\Microsoft.Web.Infrastructure.xml
+D:\HNBA PROJECTS\IBT Application\IBT Automation System\BranchMIS\obj\Release\IBT_Automation_System.csprojResolveAssemblyReference.cache
+D:\HNBA PROJECTS\IBT Application\IBT Automation System\BranchMIS\obj\Release\BranchMIS.dll
+D:\HNBA PROJECTS\IBT Application\IBT Automation System\BranchMIS\obj\Release\BranchMIS.pdb
+D:\HNBA PROJECTS\IBT Automation System\BranchMIS\bin\BranchMIS.dll.config
+D:\HNBA PROJECTS\IBT Automation System\BranchMIS\bin\BranchMIS.dll
+D:\HNBA PROJECTS\IBT Automation System\BranchMIS\bin\BranchMIS.pdb
+D:\HNBA PROJECTS\IBT Automation System\BranchMIS\bin\Microsoft.CSharp.dll
+D:\HNBA PROJECTS\IBT Automation System\BranchMIS\bin\Microsoft.Web.Infrastructure.dll
+D:\HNBA PROJECTS\IBT Automation System\BranchMIS\bin\Newtonsoft.Json.dll
+D:\HNBA PROJECTS\IBT Automation System\BranchMIS\bin\System.Configuration.dll
+D:\HNBA PROJECTS\IBT Automation System\BranchMIS\bin\System.Data.dll
+D:\HNBA PROJECTS\IBT Automation System\BranchMIS\bin\System.Data.OracleClient.dll
+D:\HNBA PROJECTS\IBT Automation System\BranchMIS\bin\System.DirectoryServices.dll
+D:\HNBA PROJECTS\IBT Automation System\BranchMIS\bin\System.dll
+D:\HNBA PROJECTS\IBT Automation System\BranchMIS\bin\System.Drawing.dll
+D:\HNBA PROJECTS\IBT Automation System\BranchMIS\bin\System.EnterpriseServices.dll
+D:\HNBA PROJECTS\IBT Automation System\BranchMIS\bin\System.Web.ApplicationServices.dll
+D:\HNBA PROJECTS\IBT Automation System\BranchMIS\bin\System.Web.dll
+D:\HNBA PROJECTS\IBT Automation System\BranchMIS\bin\System.Web.DynamicData.dll
+D:\HNBA PROJECTS\IBT Automation System\BranchMIS\bin\System.Web.Entity.dll
+D:\HNBA PROJECTS\IBT Automation System\BranchMIS\bin\System.Web.Mobile.dll
+D:\HNBA PROJECTS\IBT Automation System\BranchMIS\bin\System.Web.Services.dll
+D:\HNBA PROJECTS\IBT Automation System\BranchMIS\bin\System.Xml.dll
+D:\HNBA PROJECTS\IBT Automation System\BranchMIS\bin\Microsoft.Web.Infrastructure.xml
+D:\HNBA PROJECTS\IBT Automation System\BranchMIS\obj\Release\IBT_Automation_System.csprojResolveAssemblyReference.cache
+D:\HNBA PROJECTS\IBT Automation System\BranchMIS\obj\Release\BranchMIS.dll
+D:\HNBA PROJECTS\IBT Automation System\BranchMIS\obj\Release\BranchMIS.pdb

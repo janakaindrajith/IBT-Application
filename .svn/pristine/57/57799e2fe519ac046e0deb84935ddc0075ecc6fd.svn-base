@@ -1,0 +1,323 @@
+﻿
+-html, body {
+    margin: 0px 0px 0px 0px;
+    padding: 0px;
+}
+
+.wrapper {
+    padding-top: 150px;
+    height: 100%;
+    background-image: url(assets/img/FAS/FAS_Home.png);
+    width: 100%;
+    background-color: black;
+    background-repeat: no-repeat;
+    min-height: 640px;
+    min-width: 1366px;
+}
+
+.Logo {
+    margin-right: 230px;
+    margin-left: 230px;
+    margin-right:230px;
+}
+
+.IndexNavigation {
+    font-family: "Yu Gothic UI Light";
+    font-size: large;
+    font-weight: normal;
+    color: #FFFFFF;
+    height: 45px;
+    background: #7f7f7f;
+    background: rgba(0,0,0,0.5);
+    /*background: #7f7f7f;
+    background: rgba(255,255,255,0.5);*/
+    width: 100%;
+    margin-top: 250px;
+}
+
+.btnContainor {
+    padding: 5px 5px 5px 5px;
+    /*margin-left: 165px;*/
+    margin-left: 165px;
+    width: 380px;
+    height: 30px;
+    float: left;
+}
+
+.btnContainor_02 {
+    padding: 5px 5px 5px 5px;
+    margin-left: 5px;
+    width: 380px;
+    height: 30px;
+    float: left;
+}
+
+.btnLogo {
+    /*padding: 12px 5px 12px 5px;*/
+    padding:5px 5px 1px 1px;
+    float: left;
+    width: 20px;
+    height: 20px;
+}
+
+.btnText {
+    font-family:Euphemia;
+    margin-left: 5px;
+    /*padding: 9px 5px 5px 3px;*/
+    padding: 1px 5px 1px 1px;
+    float: left;
+    min-width: 250px;
+    height: 35px;
+}
+
+.button {
+    padding: 12px 5px 5px 3px; /*15px 15px 15px 15px;*/
+    font-size: large;
+    color: #d3d3d3;
+    text-decoration: none;
+}
+
+    .button:hover {
+        padding: 12px 5px 5px 3px;
+        color: #ff6a00;
+        text-decoration: none;
+    }
+
+
+
+
+
+
+/*--------------------------Animation Buttons--------------------*/
+
+/*.pulse {
+  margin:100px;
+  display: block;
+  width: 55px;
+  height: 55px;
+  border-radius: 50%;
+  background: #cca92c;
+  cursor: pointer;
+  box-shadow: 0 0 0 rgba(204,169,44, 0.4);
+  animation: pulse 2s infinite;
+}
+.pulse:hover {
+  animation: none;
+}
+
+@-webkit-keyframes pulse {
+  0% {
+    -webkit-box-shadow: 0 0 0 0 rgba(204,169,44, 0.4);
+  }
+  70% {
+      -webkit-box-shadow: 0 0 0 10px rgba(204,169,44, 0);
+  }
+  100% {
+      -webkit-box-shadow: 0 0 0 0 rgba(204,169,44, 0);
+  }
+}
+@keyframes pulse {
+  0% {
+    -moz-box-shadow: 0 0 0 0 rgba(204,169,44, 0.4);
+    box-shadow: 0 0 0 0 rgba(204,169,44, 0.4);
+  }
+  70% {
+      -moz-box-shadow: 0 0 0 10px rgba(204,169,44, 0);
+      box-shadow: 0 0 0 10px rgba(204,169,44, 0);
+  }
+  100% {
+      -moz-box-shadow: 0 0 0 0 rgba(204,169,44, 0);
+      box-shadow: 0 0 0 0 rgba(204,169,44, 0);
+  }
+}*/
+
+/*------------------------------------------------------*/
+
+
+.container {
+    width: 50px;
+    height: 25%;
+    margin: 0 auto 0;
+}
+
+.pulse-button {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    border: none;
+    /*box-shadow: 0 0 0 0 rgba(232, 76, 61, 0.7);*/
+    border-style: solid;
+    border-color: #ff6a00;
+    border-width: 2px;
+    box-shadow: 0 0 0 0 #ff6a00; /*#196181*/
+    border-radius: 100%;
+    background: #7f7f7f;
+    background: rgba(0,0,0,0.5);
+    /*background-image: url(assets/img/FAS/settings.png);*/
+    background-size: cover;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    -webkit-animation: pulse 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
+    -moz-animation: pulse 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
+    -ms-animation: pulse 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
+    animation: pulse 1.95s infinite cubic-bezier(0.66, 0, 0, 1);
+}
+
+    .pulse-button:hover {
+        -webkit-animation: none;
+        -moz-animation: none;
+        -ms-animation: none;
+        animation: none;
+    }
+
+@-webkit-keyframes pulse {
+    to {
+        box-shadow: 0 0 0 45px rgba(232, 76, 61, 0);
+    }
+}
+
+@-moz-keyframes pulse {
+    to {
+        box-shadow: 0 0 0 45px rgba(232, 76, 61, 0);
+    }
+}
+
+@-ms-keyframes pulse {
+    to {
+        box-shadow: 0 0 0 45px rgba(232, 76, 61, 0);
+    }
+}
+
+@keyframes pulse {
+    to {
+        box-shadow: 0 0 0 45px rgba(232, 76, 61, 0);
+    }
+}
+
+
+/*-----------------------------------------------------------------------------------*/
+
+/*----------------------------Navigation Menu Submenu Styles-------------------------*/
+.dropbtn {
+    /*background-color: #4CAF50;*/
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    margin-left: 5px;
+    padding: 12px 5px 5px 3px;
+    width: 100px;
+    height: 35px;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    right: 0;
+    /*background-color: #f9f9f9;*/
+    min-width: 10px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    background: #7f7f7f;
+    background: rgba(0,0,0,0.5);
+}
+
+    .dropdown-content a {
+        color: white;
+        padding: 8px 12px; /*12 16*/
+        text-decoration: none;
+        display: block;
+        font-family:Euphemia;
+        font-size: small;
+        font-weight: normal;
+        color: #FFFFFF;
+        letter-spacing: 1px;
+    }
+
+        .dropdown-content a:hover {
+            background: #7f7f7f;
+            background: rgba(255, 133, 0, 0.78);
+            color: white;
+        }
+
+.dropdown:hover .dropdown-content {
+    padding: 12px 5px 5px 3px;
+    display: block;
+    margin-top: 1px;
+    bottom: 115%;
+}
+
+.dropdown:hover .dropbtn {
+    /*background-color: #3e8e41;*/
+    background-color: none;
+}
+
+/*-----------------------------------------------------------------------------------*/
+
+
+
+.IndexPageWarningMsg {
+    font-family:Euphemia;
+    font-size: medium;
+    font-weight: normal;
+    color: #FFFFFF;
+    height: 30px;
+    width: 1000px;
+    /*padding: 27px 35px 7px 35px;*/
+    padding:15px 1px 10px 45px;
+    margin-top: -195px;
+    margin-left: 150px;
+    background: #FFFFFF;
+    background: rgba(255, 0, 0, 0.46);
+    border-radius: 10px;
+}
+
+.UserNameMainDiv {
+    font-family: "Yu Gothic UI Light";
+    font-size: medium;
+    font-weight: normal;
+    color: #FFFFFF;
+    /*border-style:solid;
+    border-radius:10px;
+    border-width:1px;*/
+    /*border-color:#FF6A00;*/
+    /*border-color:none;*/
+    background-color: none;
+    width: 250px;
+    height: 22px;
+    margin-left: 1100px;
+    margin-top: -500px;
+    padding: 0px 3px 0px 3px;
+    float: left;
+}
+
+.Usr_Image {
+    height: 18px;
+    width: 18px;
+    float: left;
+}
+
+.User_Name {
+    margin-left: 25px;
+    float: left;
+    padding: 7px 3px 3px 5px;
+    font-family:Euphemia;
+}
+
+
+
+
+body::-webkit-scrollbar
+{
+    width: 0px;
+}
+body::-webkit-scrollbar-track-piece
+{
+    background-color: transparent;
+    -webkit-border-radius: 6px;
+}
